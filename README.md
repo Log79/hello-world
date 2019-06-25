@@ -1,2 +1,1 @@
-# hello-world
-this is my first repository in Github
+hello world! I'm Giuseppe, italian musician passioned about coding and software developing
